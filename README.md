@@ -1,4 +1,4 @@
 # repo-demo
 My first repo in github
 <br>
-First initial commit
+This is simple program for making a calculator, using HTML, CSS, Javascript
